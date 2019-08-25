@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
